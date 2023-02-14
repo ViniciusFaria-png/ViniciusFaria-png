@@ -3,6 +3,6 @@
 
 ## About me
 * **Name**: Vinícius Faria
-* **Age**: 21
+* **Age**: 22
 * **Location**: Sao Paulo, Brazil
 * **University**: Mackenzie
