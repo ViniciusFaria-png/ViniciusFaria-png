@@ -5,4 +5,4 @@
 * **Name**: Vinícius Faria
 * **Age**: 22
 * **Location**: Sao Paulo, Brazil
-* **University**: Mackenzie
+* **University**: Universidade Presbiteriana Mackenzie (UPM)
