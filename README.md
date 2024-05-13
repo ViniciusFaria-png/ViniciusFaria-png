@@ -3,7 +3,7 @@
 * **Age**: 22
 * **Location**: Sao Paulo, Brazil
 * **University**: Universidade Presbiteriana Mackenzie (UPM)
-* **Studying**: FullStack, Python and Java
+* **Studying**: Javascript, Html+CSS, Python and C#
 
 <div>
   <a href="https://github.com/ViniciusFaria-png">
