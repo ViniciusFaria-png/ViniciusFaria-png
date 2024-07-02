@@ -1,6 +1,6 @@
 ## Welcome Stranger!
 * **Name**: Vinícius Faria
-* **Age**: 22
+* **Age**: 23
 * **Location**: Sao Paulo, Brazil
 * **University**: Universidade Presbiteriana Mackenzie (UPM)
 * **Studying**: Javascript, Html+CSS, Python and C#
