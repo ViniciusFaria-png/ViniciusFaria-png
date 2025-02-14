@@ -5,10 +5,10 @@
     <samp>
        About me:
       <br>
-       tech and gaming entushiast into retro animes and synthwave aesthetic - 24y
+       > tech and gaming entushiast into retro animes and synthwave aesthetic - 24y
       <br>
        <br>
-             I'm a programmer with a passion for fullstack development. Bachelor in Computer Science and currently doing my postgraduate in fullstack, expanding my expertise in typescript and node.js. <br>
+            > I'm a programmer with a passion for fullstack development. Bachelor in Computer Science and currently doing my postgraduate in fullstack, expanding my expertise in typescript and node.js. <br>
        <br>
       langs && frameworks:<br>
           > python, javascript/typescript, java, springboot, react.js, node.js, tailwindcss.
